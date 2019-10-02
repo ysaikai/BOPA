@@ -7,4 +7,4 @@ Despite the promise of precision agriculture (PA) for increasing the efficiency 
 
 [[pdf](bopa.pdf)]
 
-![](pi_curves.pdf)
+![](pi_curves.png)
