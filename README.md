@@ -13,6 +13,6 @@ Despite the promise of precision agriculture for increasing the productivity by 
 
 **Learned site-specific management**
 
-![](mngmnt_learned_B0.pdf)
-![](mngmnt_learned_B1.pdf)
-![](mngmnt_learned_B2.pdf)
+![](mngmnt_learned_B0.png)
+![](mngmnt_learned_B1.png)
+![](mngmnt_learned_B2.png)
