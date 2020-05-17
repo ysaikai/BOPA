@@ -17,7 +17,6 @@ warnings.filterwarnings('ignore')
 from oracle_h import *
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
-start = "{:%Y-%m-%d, %H:%M}".format(datetime.datetime.now()) # for notification
 
 """Parameters"""
 year = 2013
