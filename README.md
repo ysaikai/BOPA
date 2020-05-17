@@ -1,7 +1,8 @@
 # Machine learning for optimizing complex site-specific management
 by Yuji Saikai, [Vivak Patel](http://pages.stat.wisc.edu/~vrpatel6/), and [Paul D. Mitchell](https://aae.wisc.edu/faculty/pdmitchell/)
 
-Run ``medium.py`` or ``high.py`` for simulations with medium complexity or high complexity respectively.
+- Run ``medium.py`` or ``high.py`` for simulations with medium complexity or high complexity respectively.
+- APSIM is assumed to be installed on Windows (see ``oracle_m.py`` or ``oracle_h.py`` for more information).
 
 **Abstract**
 
