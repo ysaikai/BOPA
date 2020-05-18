@@ -1,7 +1,8 @@
 # Machine learning for optimizing complex site-specific management
-by Yuji Saikai, [Vivak Patel](http://pages.stat.wisc.edu/~vrpatel6/), and [Paul D. Mitchell](https://aae.wisc.edu/faculty/pdmitchell/)
+by [Yuji Saikai](https://yujisaikai.com), [Vivak Patel](http://pages.stat.wisc.edu/~vrpatel6/), and [Paul D. Mitchell](https://aae.wisc.edu/faculty/pdmitchell/)
 
-- APSIM is assumed to be installed on Windows (see ``oracle_m.py`` or ``oracle_h.py`` for more information)
+- [APSIM 7.10](https://www.apsim.info) is assumed to be installed on Windows (see ``oracle_m.py`` or ``oracle_h.py`` for more information)
+  - Python specifies a simulation by writing ``.apsim`` file, calls APSIM with it, and receives a result (``.out`` file)
 - APSIM files are constructed in advanced for each site and stored in ``oracle_m`` and ``oracle_h`` directories
 - Run the following on Windows:
   - ``medium.py`` for simulations with medium complexity
